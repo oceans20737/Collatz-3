@@ -1,6 +1,7 @@
 Collatz‑3: Python Implementation and Documentation
 --------------------------------------------------
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18513310.svg)](https://doi.org/10.5281/zenodo.18513310)
+--------------------------------------------------
 Overview
 --------
 This archive provides a clean and minimal Python implementation of the Collatz‑3
